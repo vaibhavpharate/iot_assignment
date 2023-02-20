@@ -1,4 +1,4 @@
-# iot_assignment
+# IoT Assignment
 This project focusses on the importance and uses of the weather data “Feels Like Temprature” which can be majorly used for Advertising. The aim of this project is to analyse the the difference between “Temperature” and “Feels LikeTemperature” of the Location “Hinjewadi, Pune” and find out a better hyper tuned model that can forecast the “Feels Like
 **Title: Finding the Ideal way to Forecast the “Feels Like Temperature” of a Location by extracting the Data in Realtime**
 
